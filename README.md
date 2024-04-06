@@ -20,6 +20,7 @@ Happy building. Let's use AI to make the world a little bit better ✌️
 - [ChatGPT Course – Use The OpenAI API to Code 5 Projects ](https://www.youtube.com/watch?v=uRQH2CFvedY)
 - [GPT-4 - How does it work, and how do I build apps with it? Harvard CS50 ](https://www.youtube.com/watch?v=vw-KWfKwvTQ)
 - [AI Companion App Repo ](https://github.com/a16z-infra/companion-app)
+- [Tune AI ](https://chat.tune.app/)
 
 ### 🕵️‍♂️ Agents
 - [BabyAGI ](https://github.com/yoheinakajima/babyagi)
